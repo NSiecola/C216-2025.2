@@ -1,0 +1,120 @@
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Nenhum aluno cadastrado.
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: Nicholas do Vale Siéola
+Digite o e-mail do aluno: n.siecola@gec.inatel.br
+Digite o curso do aluno (GES, GEC, GEA, etc.): GEC
+Aluno Nicholas do Vale Siéola cadastrado com sucesso! Matrícula: GEC1
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 3
+Digite a matrícula do aluno a ser atualizado: GEC1
+
+Atualizando dados do aluno. Deixe em branco e pressione Enter para manter a informação atual.
+Digite o novo nome: Nicholas do Vale Siécola
+Digite o novo e-mail: 
+Digite o novo curso: 
+Aluno atualizado com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Matrícula: GEC1, Nome: Nicholas do Vale Siécola, E-mail: n.siecola@gec.inatel.br, Curso: GEC
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: exemplo
+Digite o e-mail do aluno: exemplo@gec.inatel.br
+Digite o curso do aluno (GES, GEC, GEA, etc.): GEC
+Aluno exemplo cadastrado com sucesso! Matrícula: GEC2
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Matrícula: GEC1, Nome: Nicholas do Vale Siécola, E-mail: n.siecola@gec.inatel.br, Curso: GEC
+Matrícula: GEC2, Nome: exemplo, E-mail: exemplo@gec.inatel.br, Curso: GEC
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 1
+Digite o nome do aluno: exemplo2
+Digite o e-mail do aluno: exemplo2
+Digite o curso do aluno (GES, GEC, GEA, etc.): GES
+Aluno exemplo2 cadastrado com sucesso! Matrícula: GES1
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Matrícula: GEC1, Nome: Nicholas do Vale Siécola, E-mail: n.siecola@gec.inatel.br, Curso: GEC
+Matrícula: GEC2, Nome: exemplo, E-mail: exemplo@gec.inatel.br, Curso: GEC
+Matrícula: GES1, Nome: exemplo2, E-mail: exemplo2, Curso: GES
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 4
+Digite a matrícula do aluno a ser removido: GEC2
+Aluno removido com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 2
+Matrícula: GEC1, Nome: Nicholas do Vale Siécola, E-mail: n.siecola@gec.inatel.br, Curso: GEC
+Matrícula: GES1, Nome: exemplo2, E-mail: exemplo2, Curso: GES
+
+Menu de Opções:
+1. Cadastrar Aluno
+2. Listar Alunos
+3. Atualizar Aluno
+4. Remover Aluno
+5. Sair
+Escolha uma opção: 5
+Saindo...
+
+Process finished with exit code 0
